@@ -1,0 +1,83 @@
+/* body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+} */
+
+body {
+  margin:0;
+  font-family: 'Inter', sans-serif;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.button {
+  font-size: 30px !important;     /* aur bada text */
+  padding: 20px 60px !important;  /* aur zyada space */
+  height: auto; /* button ki height */
+  width:350px!important;
+}
+
+.ts{
+  font-size: 25px !important;
+  color: #7a667a;
+}
+
+.tsh{
+  font-size: 30px !important;
+}
+
+.tshh{
+  font-size: 40px !important;
+}
+.pricing-content {
+  max-width: 650px;   /* pura block ko stretch karega */
+}
+
+.nav-link{
+  font-size: 22px;
+  margin-left: 55px;
+}
+
+.navbar-brand{
+  margin-left: 150px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.links a{
+  display: block;
+  text-decoration: none;
+  margin-bottom: 1px;
+  font-size: 20px;
+  color: #7a667a;
+}
+
+.links a:hover{
+  color: #699edc;
+}
+
+.extras a{
+  font-size: 18px;
+  color: #7a667a;
+  margin-left: 25px;
+}
+
+.ticket-links a{
+  display: block;
+  margin-bottom: 18px;
+  font-size: 18px;
+}
+
+.blue-box{
+  background-color: #367ed1;
+  padding: 15px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
